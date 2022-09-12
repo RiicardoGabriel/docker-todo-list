@@ -1,1 +1,1 @@
-docker run –-rm 01container
+docker rm --force 01container
